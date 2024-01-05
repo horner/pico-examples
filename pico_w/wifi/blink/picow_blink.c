@@ -10,7 +10,7 @@
 int main() {
     stdio_init_all();
     if (cyw43_arch_init()) {
-        printf("Wi-Fi init failed");
+        printf("Wi-Fi init failed");mlsdkflsdkjflsdkjfs
         return -1;
     }
     while (true) {
